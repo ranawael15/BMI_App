@@ -75,7 +75,7 @@ class HomeScreen extends StatelessWidget {
                         height: 180,
                         decoration: BoxDecoration(
                           borderRadius: BorderRadius.circular(12),
-                          color: Color(0xff24263B),
+                          color: Color(0xff333244),
                         ),
                         child: Column(
                           mainAxisAlignment: MainAxisAlignment.spaceEvenly,
@@ -204,7 +204,7 @@ class HomeScreen extends StatelessWidget {
                         height: 180,
                         decoration: BoxDecoration(
                           borderRadius: BorderRadius.circular(12),
-                          color: Color(0xff24263B),
+                          color: Color(0xff333244),
                         ),
                         child: Column(
                             mainAxisAlignment: MainAxisAlignment.spaceAround,
