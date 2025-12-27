@@ -12,7 +12,7 @@ A new Flutter project.
 
 
 ### Screen 1
-![Screen 1](assets/screen2.png)
+![Screen 1](assets/screen1.png)
 
 ### Screen 2
 ![Screen 1](assets/screen2.png)
