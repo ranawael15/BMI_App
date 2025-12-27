@@ -4,6 +4,19 @@ A new Flutter project.
 
 ## Getting Started
 
+### BMI Screen
+![BMI1](assets/bmi1.png)
+
+### BMI Screen2
+![BMI2](assets/bmi2.png)
+
+
+### Screen 1
+![Screen 1](assets/screen2.png)
+
+### Screen 2
+![Screen 1](assets/screen2.png)
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
